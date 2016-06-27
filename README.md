@@ -1,4 +1,4 @@
-# Middleman ES6 Demo
+# Middleman ES6 Example
 
 This project shows how you can use ES6 in a Middleman 4 project.
 
